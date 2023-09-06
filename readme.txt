@@ -1,4 +1,4 @@
-Hello! Welcome to this Untitled Farming Game!
+Hello! Welcome to this Untitled Farming Game.
 
 The only controls are left click, so it should be easy to use. You will need PyGame
 
