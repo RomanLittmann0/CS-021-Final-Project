@@ -1,0 +1,5 @@
+beta-
+realeased to cs021 grader. Got a pretty good grade.
+
+patch 1-
+    1. Fixed a bug where potatoes could be changed and planted before unlocking
